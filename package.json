@@ -1,0 +1,12 @@
+{
+    "name": "ejercicio01",
+    "version": "1.0.0",
+    "description": "Crear un servidor web que al recibir una petición de http://localhost:8080/tablas, entregue la página web todasLasTablas.html, que contiene un código escrito en html (no autogenerado) con las tablas de multiplicar del 1 al 10.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index.js"
+    },
+    "author": "Alvaro Carballo",
+    "license": "ISC"
+}
